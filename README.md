@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="http://www.vgoshinfo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Website-2AAA8A?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
 
