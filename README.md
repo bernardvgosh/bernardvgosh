@@ -25,7 +25,7 @@ I have over 20 years of experience in Software Development, leading and managing
  
  🌱 I’m currently consulting and advising more about **Cloud Computing and Microservices Architecture**
 
-💬 Ask me about **Software Engineering, System Design, and Backend Development**
+💬 Ask me about **AI, ML, Software Engineering, System Design, and Backend Development**
 
 📧 Reach me out: bernard@vgoshinfo.com
 
