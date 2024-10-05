@@ -21,7 +21,7 @@ I have over 20 years of experience in Software Development, leading and managing
 
 <div align="left">
  
- 🔭 I’m currently managing teams on on **Full-stack Development Projects**
+ 🔭 I’m currently managing teams on **Full-stack Development Projects**
  
  🌱 I’m currently consulting and advising more about **Cloud Computing and Microservices Architecture**
 
